@@ -1,0 +1,21 @@
+{
+  "name": "genpark-llm-token-bucket-sliding-window-rate-limiter-skill",
+  "version": "1.0.1",
+  "description": "Adaptive multi-tier TPM and RPM rate limiter with smooth leaky bucket queuing and predictive burst wait estimation",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "rate-limiter",
+    "token-bucket",
+    "sliding-window",
+    "llm-infrastructure",
+    "api-gateway",
+    "python-standard-library",
+    "agent-skills",
+    "tpm-limiter",
+    "traffic-shaping",
+    "latency-optimization"
+  ]
+}
